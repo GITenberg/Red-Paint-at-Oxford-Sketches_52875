@@ -1,0 +1,28 @@
+_repo: Red-Paint-at-Oxford-Sketches_52875
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Pish
+    gutenberg_agent_id: '47095'
+    url: http://www.gutenberg.org/2009/agents/47095
+  - agent_name: Tush
+    gutenberg_agent_id: '47096'
+    url: http://www.gutenberg.org/2009/agents/47096
+description: ''
+gutenberg_issued: '2016-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52875'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'University of Oxford -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Red paint at Oxford -- On motoring to town -- A quiet evening --
+  Concerning the theatre -- The mutual help society -- On the strenuousness of life
+  -- Rugger night -- How we ragged "the Suburban" -- An "Eights' week".
+title: 'Red Paint at Oxford: Sketches'
+url: http://www.gutenberg.org/ebooks/52875
